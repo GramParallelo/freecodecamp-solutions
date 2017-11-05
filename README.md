@@ -1,3 +1,3 @@
 # freecodecamp-solutions
 
-![Certificate](/fcc-certificate-frontend.jpg?raw=true "Certificate")
+![Certificate Screenshot](/fcc-certificate-frontend.jpg?raw=true "Certificate Screenshot")
